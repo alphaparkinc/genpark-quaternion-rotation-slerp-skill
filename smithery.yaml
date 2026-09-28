@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-quaternion-rotation-slerp-skill
+name: genpark-quaternion-rotation-slerp-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
